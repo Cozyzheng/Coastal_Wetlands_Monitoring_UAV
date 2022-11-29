@@ -12,15 +12,15 @@ National Obser-vations and Research Station for Wetland Ecosystems of the Yangtz
 and Shanghai Institute of EcoChongming (SIEC), Fudan University, Shanghai 200433, People’s Republic of China
 
 ### Citation:
-MDPI and ACS Style
+#### MDPI and ACS Style
 
 Zheng, J.-Y.; Hao, Y.-Y.; Wang, Y.-C.; Zhou, S.-Q.; Wu, W.-B.; Yuan, Q.; Gao, Y.; Guo, H.-Q.; Cai, X.-X.; Zhao, B. Coastal Wetland Vegetation Classification Using Pixel-Based, Object-Based and Deep Learning Methods Based on RGB-UAV. Land 2022, 11, 2039. https://doi.org/10.3390/land11112039
 
-AMA Style
+#### AMA Style
 
 Zheng J-Y, Hao Y-Y, Wang Y-C, Zhou S-Q, Wu W-B, Yuan Q, Gao Y, Guo H-Q, Cai X-X, Zhao B. Coastal Wetland Vegetation Classification Using Pixel-Based, Object-Based and Deep Learning Methods Based on RGB-UAV. Land. 2022; 11(11):2039. https://doi.org/10.3390/land11112039
 
-Chicago/Turabian Style
+#### Chicago/Turabian Style
 
 Zheng, Jun-Yi, Ying-Ying Hao, Yuan-Chen Wang, Si-Qi Zhou, Wan-Ben Wu, Qi Yuan, Yu Gao, Hai-Qiang Guo, Xing-Xing Cai, and Bin Zhao. 2022. "Coastal Wetland Vegetation Classification Using Pixel-Based, Object-Based and Deep Learning Methods Based on RGB-UAV" Land 11, no. 11: 2039. https://doi.org/10.3390/land11112039
 
