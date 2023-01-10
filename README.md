@@ -1,5 +1,6 @@
 ## Coastal_Wetlands_Monitoring_UAV
 Code for 'Coastal Wetland Vegetation Classification Using Pixel-Based, Object-Based and Deep Learning Methods Based on RGB-UAV'
+https://www.mdpi.com/2073-445X/11/11/2039
 
 ### Citation:
 #### MDPI and ACS Style
@@ -18,7 +19,7 @@ Zheng, Jun-Yi, Ying-Ying Hao, Yuan-Chen Wang, Si-Qi Zhou, Wan-Ben Wu, Qi Yuan, Y
 The data that support the findings of this study are available upon request from the authors.
 
 ### E-mail: 
-19210700109@fudan.edu.cn
+Zheng Jun-Yi  19210700109@fudan.edu.cn
 
 ### Affilitiaon: 
 Ministry of Education Key Laboratory for Biodiversity Science and Ecological Engineering, 
